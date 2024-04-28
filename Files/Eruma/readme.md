@@ -1,6 +1,6 @@
 # ERUMA - Quick Play Guide v1.0
 
-<!-- IMAGEM -->
+![Capa](<Imagens PDF/1 Capa.png>)
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@
 **Players**: 2-player, 1v1
 **Designer**: Fabio Esteves
 
-<!-- IMAGEM -->
+![ilha](<Imagens PDF/2 Ilha.png>)
 
 ## Getting Started
 
@@ -62,7 +62,7 @@ The Extra deck has Henchman Cards only, which are cards summoned by Outlaw cards
 
 There are 2 types of cards in Eruma TCG: Outlaw and Henchman.
 
-<!-- IMAGEM -->
+![anatomia](<Imagens PDF/3 Anatomia.png>)
 
 #### Outlaw Cards
 
@@ -72,7 +72,7 @@ There are 2 types of cards in Eruma TCG: Outlaw and Henchman.
 **Type**: Types are special card rules (aka keywords). Not all cards have a type.
 **Power**: This is a special action the card can do. Every card has a unique Power.
 
-<!-- IMAGEM -->
+![classes](<Imagens PDF/4 Classes.png>)
 
 #### Henchman Cards
 
@@ -80,7 +80,7 @@ Henchman cards are cards summoned from your Extra Deck and they’re discussed i
 
 ### Game Layout
 
-<!-- IMAGE -->
+![layout](<Imagens PDF/5 Layout.png>)
 
 Each player has a Zone 1 and a Zone 2 on their side, with the Treasure Zone dividing the Playfield into two sides. Players cannot play cards from their hand or move played cards to the opponent's zones.
 The Treasure Zone is where you can steal treasures to win the game.
@@ -157,7 +157,7 @@ This mechanic requires a face-down Spy card on the playfield.
   - During your opponent’s turn, if they trigger the Power of a card, you can flip face-up a face-down spy card to block it. The power has no effect, the action point used is lost and the card is exhausted.
   - A card exhausted by blocking is turned 90 degrees to the left. Blocking a power does not cost any Action Points.
 
-<!-- IMAGEM -->
+![ExhaustBlock](<Imagens PDF/6 ExhaustBlock.png>)
 
 ### Power Speed
 
@@ -169,7 +169,7 @@ The first word in the top of the Power box tells you when the power happens.
 
 ### How to Summon a Henchman
 
-<!-- IMAGEM -->
+![Maníaco](<Imagens PDF/7 Maníaco.png>)
 
 When a card’s power tells you to summon a henchman, you should take the card described in the power’s text from your Extra Deck and play it face-up on any empty position except your opponent’s Zone 1.
 Henchmen cannot move, attack, or steal treasures. Henchmen that are killed, discarded, or returned to the player’s hand, return to the Extra Deck.
