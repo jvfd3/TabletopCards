@@ -4,30 +4,32 @@
 
 ## Table of Contents
 
-- About the game
-- Getting Started
-- What you need to play
-- Deck
-- Extra Deck
-- Cards
-- Outlaw Cards
-- Henchman Cards
-- Game Layout
-- How to Play
-- How to Win
-- How to Start
-- Turn Structure
-- Action Points
-- How to Play a Card
-- How to Move a Card
-- How to Attack Cards
-- How to Steal a Treasure
-- How to Use Powers
-- How to Block Powers
-- Power Speed
-- How to Summon a Henchman
-- Card Types
-- About the Project
+- [ERUMA - Quick Play Guide v1.0](#eruma---quick-play-guide-v10)
+  - [Table of Contents](#table-of-contents)
+  - [About the game](#about-the-game)
+  - [Getting Started](#getting-started)
+  - [What you need to play](#what-you-need-to-play)
+    - [Deck](#deck)
+    - [Extra Deck](#extra-deck)
+    - [Cards](#cards)
+      - [Outlaw Cards](#outlaw-cards)
+      - [Henchman Cards](#henchman-cards)
+    - [Game Layout](#game-layout)
+  - [How to Play](#how-to-play)
+    - [How to Win](#how-to-win)
+    - [How to Start](#how-to-start)
+    - [Turn Structure](#turn-structure)
+    - [Action Points](#action-points)
+    - [How to Play a Card](#how-to-play-a-card)
+    - [How to Move a Card](#how-to-move-a-card)
+    - [How to Attack Cards](#how-to-attack-cards)
+    - [How to Steal a Treasure](#how-to-steal-a-treasure)
+    - [How to Use Powers](#how-to-use-powers)
+    - [How to Block Powers](#how-to-block-powers)
+    - [Power Speed](#power-speed)
+    - [How to Summon a Henchman](#how-to-summon-a-henchman)
+    - [Card Types](#card-types)
+  - [About the Project](#about-the-project)
 
 ## About the game
 
@@ -93,7 +95,7 @@ The first player to reach a Total Treasure of 10 is the winner. When you steal a
 
 Both players shuffle their Deck, put it face down on the table, draw 3 cards from the top of it and decide who will be the first to play.
 
-#### Turn Structure
+### Turn Structure
 
 A turn is the time frame in which a player draws a card, plays cards from their hand, makes decisions and passes if there is still no winner. It is played in this order:
 
@@ -110,7 +112,7 @@ A turn is the time frame in which a player draws a card, plays cards from their 
    - If your hand has more than 6 cards, discard the excess.
    - Pass your turn.
 
-#### Action Points
+### Action Points
 
 Each player gets 3 Action Points per turn. Unused points do not carry over to the
 next turn. A single point can be used for:
@@ -120,34 +122,34 @@ next turn. A single point can be used for:
 - Trigger the power of one of your face-up cards.
 - Steal a treasure using a face-up card over any Treasure Zone position.
 
-#### How to Play a Card
+### How to Play a Card
 
 Spend 1 Action Point to play a card face-down from your hand into any empty position in your Zone 1.
 
-#### How to Move a Card
+### How to Move a Card
 
 Spend 1 Action Point to move a face-up card to an empty adjacent position. Cards cannot move diagonally or move to your opponent’s Zones.
 
-#### How to Attack Cards
+### How to Attack Cards
 
 Spend 1 Action Point to use a face-up card to attack an adjacent face-up card. The attacking card moves to the attacked card’s position like a chess piece. The attacker kills its target and remains in the Playfield. Dead cards are sent to the Graveyard. Cards cannot attack diagonally or attack face-down cards.
 
 - **Assassin Skill**: An Assassin card kills any card that attacks it, unless it’s another assassin. The attacking assassin has priority and kills the attacked one.
 
-#### How to Steal a Treasure
+### How to Steal a Treasure
 
 Spend 1 Action Point to steal a treasure using one of your face-up cards over any Treasure Zone position. Add 1 treasure to your Total Treasure. Each card can only steal a treasure once per turn.
 
 - **Thief Skill**: All face-up thieves in Treasure Zone positions during your Planning Phase steal 1 treasure without spending any Action Points. The same thief can still take a steal treasure action in your Assault Phase.
 
-#### How to Use Powers
+### How to Use Powers
 
 Spend 1 Action Point to trigger the Power of a face-up card. When a card's power is triggered, exhaust the card by turning it 90 degrees to the right.
 An exhausted card cannot use its power until your next turn, but it can still take any other actions.
 You cannot trigger the power of a face-down card and face-down cards cannot be targeted by powers.
 To learn about the words Quick, Slow and Ongoing read the “Power Speed” section.
 
-#### How to Block Powers
+### How to Block Powers
 
 This mechanic requires a face-down Spy card on the playfield.
 
@@ -157,7 +159,7 @@ This mechanic requires a face-down Spy card on the playfield.
 
 <!-- IMAGEM -->
 
-#### Power Speed
+### Power Speed
 
 The first word in the top of the Power box tells you when the power happens.
 
@@ -165,7 +167,7 @@ The first word in the top of the Power box tells you when the power happens.
 - **Slow**: This will happen on the opponent's next turn, in any phase, whenever the condition is met. When they pass their turn, it's over.
 - **Ongoing**: After triggering it in your turn, this will happen whenever the condition is met, as long as the card remains face-up on the Playfield. The card is exhausted, cannot be ready and you don't need to spend more points.
 
-#### How to Summon a Henchman
+### How to Summon a Henchman
 
 <!-- IMAGEM -->
 
