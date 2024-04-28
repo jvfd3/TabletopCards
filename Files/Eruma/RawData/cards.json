@@ -1,0 +1,410 @@
+{
+  "Outlaw": [
+    {
+      "name": "Akhrunos",
+      "class": "Maniac",
+      "power": "Add an Assassin card from your Deck to your Hand.",
+      "type": [
+        "Invulnerable"
+      ]
+    },
+    {
+      "name": "Alma",
+      "class": "Thief",
+      "power": "Move this card to any empty position, except the opponent's zones.",
+      "type": [
+        "Invulnerable"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "class": "Thief",
+      "power": "Steal 2 treasures if this card is on a Treasure Zone position.",
+      "type": [
+        "Strongman"
+      ]
+    },
+    {
+      "name": "Black Fox",
+      "class": "Thief",
+      "power": "Gain 1 treasure for each 'Flying' type card in a Treasure Zone position that returns to your hand this turn.",
+      "type": []
+    },
+    {
+      "name": "Blaze",
+      "class": "Assassin",
+      "power": "Kill all enemy cards that don't move during the opponent's next turn.",
+      "type": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Cannon",
+      "class": "Spy",
+      "power": "Play 1 card face-up on the Treasure Zone position in the same column as this card, if it's empty.",
+      "type": [
+        "Strongman"
+      ]
+    },
+    {
+      "name": "Cerebro",
+      "class": "Thief",
+      "power": "Take control of 1 enemy card. Use your AP to move it, trigger its power or attack.",
+      "type": []
+    },
+    {
+      "name": "Charlotte",
+      "class": "Assassin",
+      "power": "Kill 1 card in any position.",
+      "type": []
+    },
+    {
+      "name": "Cinder",
+      "class": "Spy",
+      "power": "Kill this card and return all face-up cards to its owner hands.",
+      "type": [
+        "Regenerative"
+      ]
+    },
+    {
+      "name": "Daisy and Violet",
+      "class": "Maniac",
+      "power": "Gain 1 treasure every time a card is removed from the game (active as long as this card remains face-up).",
+      "type": []
+    },
+    {
+      "name": "Dalia",
+      "class": "Spy",
+      "power": "The opponent draws 2 cards now.",
+      "type": []
+    },
+    {
+      "name": "Dejavu",
+      "class": "Thief",
+      "power": "Repeat the last triggered power.",
+      "type": []
+    },
+    {
+      "name": "Didi and Dingle",
+      "class": "Thief",
+      "power": "If this card dies, you gain 2 treasures (active as long as this card remains face-up).",
+      "type": []
+    },
+    {
+      "name": "Dr. Klonn",
+      "class": "Maniac",
+      "power": "Take a card from your Graveyard and play it on your Zone 1.",
+      "type": []
+    },
+    {
+      "name": "Eldritch",
+      "class": "Spy",
+      "power": "Play as many 'Flying' type cards as you want face-up in your Zone 1.",
+      "type": []
+    },
+    {
+      "name": "Erzsebet",
+      "class": "Assassin",
+      "power": "Give one of your cards the Assassin Skill until the end of this turn.",
+      "type": [
+        "Flying",
+        "Invulnerable"
+      ]
+    },
+    {
+      "name": "Euryale",
+      "class": "Maniac",
+      "power": "Summon 1 'Statue' for each enemy card that flips face-up during the opponent's next turn.",
+      "type": []
+    },
+    {
+      "name": "Filthy Beard",
+      "class": "Maniac",
+      "power": "Summon 1 'Pirate'.",
+      "type": []
+    },
+    {
+      "name": "Flamel",
+      "class": "Thief",
+      "power": "Double your Total Treasure. You cannot trigger any other powers this turn.",
+      "type": []
+    },
+    {
+      "name": "Gretel",
+      "class": "Maniac",
+      "power": "Summon 1 'Rat' or 1 'Bear'. Remove this card from the game and play the Henchman in its position.",
+      "type": []
+    },
+    {
+      "name": "Grimas",
+      "class": "Assassin",
+      "power": "Trigger the power of a card in either player's Graveyard.",
+      "type": []
+    },
+    {
+      "name": "Grotheus",
+      "class": "Maniac",
+      "power": "Summon 1 'Demon'.",
+      "type": [
+        "Invulnerable"
+      ]
+    },
+    {
+      "name": "Guilhotine",
+      "class": "Maniac",
+      "power": "Summon 1 'Headless-Soldier'.",
+      "type": []
+    },
+    {
+      "name": "Hadini",
+      "class": "Maniac",
+      "power": "Summon 1 'Frog'.",
+      "type": []
+    },
+    {
+      "name": "Hameline",
+      "class": "Maniac",
+      "power": "Summon 1 'Crow' for each empty position in the Treasure Zone.",
+      "type": []
+    },
+    {
+      "name": "Hanged Man",
+      "class": "Thief",
+      "power": "For each card you return to your hand this turn, choose 1 enemy card to return to the opponent's hand.",
+      "type": [
+        "Flying"
+      ]
+    },
+    {
+      "name": "Hunters",
+      "class": "Assassin",
+      "power": "Kill 1 'Invulnerable' card in any position.",
+      "type": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Itsy Bitsy Lady",
+      "class": "Spy",
+      "power": "Enemy 'Flying' type cards cannot do any actions during the opponent's next turn.",
+      "type": []
+    },
+    {
+      "name": "Jesmine",
+      "class": "Spy",
+      "power": "Destroy the position under this card if it's on the Treasure Zone (put a coin there). Until the end of the game, a card on a destroyed position cannot steal treasures.",
+      "type": []
+    },
+    {
+      "name": "Juju",
+      "class": "Spy",
+      "power": "The Total Treasure of both players cannot be changed during the next opponent's turn.",
+      "type": []
+    },
+    {
+      "name": "Kraemer",
+      "class": "Spy",
+      "power": "Halve your opponent's Total Treasure (round it down). You cannot trigger any other powers this turn.",
+      "type": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Kthul'haazgar",
+      "class": "Maniac",
+      "power": "Summon 1 'Madness'.",
+      "type": [
+        "Invulnerable"
+      ]
+    },
+    {
+      "name": "Kuroshi",
+      "class": "Assassin",
+      "power": "Gain 2 treasures every time your Assassins kill a card (active as long as this card remains face-up).",
+      "type": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Lazarus",
+      "class": "Maniac",
+      "power": "Summon as many 'Zombie' cards as you want, up to the number of cards in your Graveyard.",
+      "type": []
+    },
+    {
+      "name": "Limbo",
+      "class": "Thief",
+      "power": "Return this card to your hand and play a card face-up in its position.",
+      "type": []
+    },
+    {
+      "name": "Machado",
+      "class": "Assassin",
+      "power": "Kill all enemy cards in adjacent positions to this card.",
+      "type": []
+    },
+    {
+      "name": "Magnete",
+      "class": "Thief",
+      "power": "Target 1 enemy card and keep the treasures it steals. Ready this card if it loses its target. (active as long as this card remains face-up).",
+      "type": []
+    },
+    {
+      "name": "Makuna",
+      "class": "Assassin",
+      "power": "Kill 2 Henchman in any position.",
+      "type": []
+    },
+    {
+      "name": "Marvaud",
+      "class": "Maniac",
+      "power": "Summon 1 'Shark'.",
+      "type": []
+    },
+    {
+      "name": "Miara",
+      "class": "Thief",
+      "power": "The opponent will lose 1 AP in their next turn.",
+      "type": []
+    },
+    {
+      "name": "Mr. Ivanov",
+      "class": "Spy",
+      "power": "Double your Action Points (after triggering this power).",
+      "type": []
+    },
+    {
+      "name": "Ms. Hive",
+      "class": "Assassin",
+      "power": "Kill all enemy cards that stole a treasure on the opponent's next turn.",
+      "type": [
+        "Flying"
+      ]
+    },
+    {
+      "name": "Muerte",
+      "class": "Assassin",
+      "power": "Enemy cards cannot kill your cards during the opponent's next turn.",
+      "type": []
+    },
+    {
+      "name": "Naptali",
+      "class": "Spy",
+      "power": "Face-down enemy cards cannot flip face-up during the opponent's next turn.",
+      "type": []
+    },
+    {
+      "name": "Nevoir",
+      "class": "Spy",
+      "power": "Flip all your cards face-down.",
+      "type": []
+    },
+    {
+      "name": "Oberon",
+      "class": "Thief",
+      "power": "Gain 'Invulnerable' type until the end of the opponent's next turn.",
+      "type": [
+        "Flying"
+      ]
+    },
+    {
+      "name": "Pompeu",
+      "class": "Maniac",
+      "power": "Summon 1 'Boulder'.",
+      "type": [
+        "Strongman"
+      ]
+    },
+    {
+      "name": "Ragdoll",
+      "class": "Thief",
+      "power": "Add a Maniac card from your Deck to your Hand and return this card to your Deck.",
+      "type": [
+        "Regenerative"
+      ]
+    },
+    {
+      "name": "Replica",
+      "class": "Thief",
+      "power": "Turn this card into a copy of another face-up card.",
+      "type": []
+    },
+    {
+      "name": "Rhowl",
+      "class": "Assassin",
+      "power": "Flip all enemy cards face-down.",
+      "type": [
+        "Invulnerable"
+      ]
+    },
+    {
+      "name": "Russula",
+      "class": "Maniac",
+      "power": "Summon 1 'Illusion'.",
+      "type": []
+    },
+    {
+      "name": "Sandiego",
+      "class": "Assassin",
+      "power": "Attack a card and gain 2 treasure if this card kills it.",
+      "type": []
+    },
+    {
+      "name": "Shimaru",
+      "class": "Assassin",
+      "power": "Kill all enemy cards that flipped face-up this turn.",
+      "type": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Sumida",
+      "class": "Thief",
+      "power": "Swap this card's position with a card in an adjacent position.",
+      "type": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Tilted",
+      "class": "Spy",
+      "power": "Enemy cards cannot do any actions during the opponent's next turn (except 'Flying' type)",
+      "type": []
+    },
+    {
+      "name": "Tintin",
+      "class": "Assassin",
+      "power": "Choose a card type for this card and keep it as long as this card remains face-up.",
+      "type": []
+    },
+    {
+      "name": "Tormenta",
+      "class": "Spy",
+      "power": "Flip all enemy cards face-up.",
+      "type": [
+        "Flying"
+      ]
+    },
+    {
+      "name": "Toxique",
+      "class": "Assassin",
+      "power": "Kill all enemy cards that flip face-up on the opponent's next turn.",
+      "type": []
+    },
+    {
+      "name": "Ventus",
+      "class": "Spy",
+      "power": "Move all enemy cards 1 position backwards if that position is empty.",
+      "type": [
+        "Flying"
+      ]
+    },
+    {
+      "name": "White King",
+      "class": "Spy",
+      "power": "Enemy cards cannot move during the opponent's next turn.",
+      "type": []
+    }
+  ],
+  "Henchman": []
+}

@@ -1,0 +1,22 @@
+{
+  "class": {
+    "Assassin": "An Assassin card kills any card that attacks it, unless it's another assassin. The attacking assassin has priority and kills the attacked one.",
+    "Maniac": "The Maniac is the only class that can summon Henchman cards. Once a Henchman is summoned, its power is active and does not cost any Action Points.",
+    "Spy": "During your opponent's turn, if they trigger the Power of a card, you can flip face-up a face-down spy card to block it. The power has no effect, the action point used is lost and the card is exhausted. A card exhausted by blocking is turned 90 degrees to the left. Blocking a power does not cost any Action Points.",
+    "Thief": "All face-up thieves in Treasure Zone positions during your Planning Phase steal 1 treasure without spending any Action Points. The same thief can still take a steal treasure action in your Assault Phase."
+  },
+  "type": {
+    "Evasive": "You can flip this card face-down in your turn.",
+    "Flying": "You can return this card to your hand in your turn.",
+    "Invulnerable": "Only 'Slayer' type cards can attack or kill this card by using powers.",
+    "Obstacle": "Only 'Strongman' type cards can attack or kill this card by using powers.",
+    "Regenerative": "If this card would be killed by a power, it flips face-down instead.",
+    "Slayer": "This card can attack or kill 'Invulnerable' type cards using its power.",
+    "Strongman": "This card can attack or kill 'Obstacle' type cards using its powers."
+  },
+  "power Speed": {
+    "Quick": "This happens when you trigger it on your turn and it's over.",
+    "Slow": "This will happen on the opponent's next turn, in any phase, whenever the condition is met. When they pass their turn, it's over.",
+    "Ongoing": "After triggering it in your turn, this will happen whenever the condition is met, as long as the card remains face-up on the Playfield. The card is exhausted, cannot be ready and you don't need to spend more points."
+  }
+}
