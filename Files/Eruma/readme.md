@@ -76,7 +76,7 @@ There are 2 types of cards in Eruma TCG: Outlaw and Henchman.
 
 #### Henchman Cards
 
-Henchman cards are cards summoned from your Extra Deck and they’re discussed in the "How to Summon a Henchman" section.
+Henchman cards are cards summoned from your Extra Deck and they're discussed in the "How to Summon a Henchman" section.
 
 ### Game Layout
 
@@ -89,7 +89,7 @@ The Treasure Zone is where you can steal treasures to win the game.
 
 ### How to Win
 
-The first player to reach a Total Treasure of 10 is the winner. When you steal a treasure, you add 1 to your Total Treasure. To steal a treasure you need a face-up card in any Treasure Zone position and take a “steal treasure” action.
+The first player to reach a Total Treasure of 10 is the winner. When you steal a treasure, you add 1 to your Total Treasure. To steal a treasure you need a face-up card in any Treasure Zone position and take a "steal treasure" action.
 
 ### How to Start
 
@@ -105,7 +105,7 @@ A turn is the time frame in which a player draws a card, plays cards from their 
 2. Planning Phase
    - Ready your exhausted cards by turning them upright.
    - Flip all your face-down cards face-up.
-   - Resolve your card’s skills and powers.
+   - Resolve your card's skills and powers.
 3. Assault Phase
    - You get 3 Action Points per turn that can be spent to play cards, move, attack, use powers, and steal treasures.
 4. Rest Phase
@@ -128,13 +128,13 @@ Spend 1 Action Point to play a card face-down from your hand into any empty posi
 
 ### How to Move a Card
 
-Spend 1 Action Point to move a face-up card to an empty adjacent position. Cards cannot move diagonally or move to your opponent’s Zones.
+Spend 1 Action Point to move a face-up card to an empty adjacent position. Cards cannot move diagonally or move to your opponent's Zones.
 
 ### How to Attack Cards
 
-Spend 1 Action Point to use a face-up card to attack an adjacent face-up card. The attacking card moves to the attacked card’s position like a chess piece. The attacker kills its target and remains in the Playfield. Dead cards are sent to the Graveyard. Cards cannot attack diagonally or attack face-down cards.
+Spend 1 Action Point to use a face-up card to attack an adjacent face-up card. The attacking card moves to the attacked card's position like a chess piece. The attacker kills its target and remains in the Playfield. Dead cards are sent to the Graveyard. Cards cannot attack diagonally or attack face-down cards.
 
-- **Assassin Skill**: An Assassin card kills any card that attacks it, unless it’s another assassin. The attacking assassin has priority and kills the attacked one.
+- **Assassin Skill**: An Assassin card kills any card that attacks it, unless it's another assassin. The attacking assassin has priority and kills the attacked one.
 
 ### How to Steal a Treasure
 
@@ -147,14 +147,14 @@ Spend 1 Action Point to steal a treasure using one of your face-up cards over an
 Spend 1 Action Point to trigger the Power of a face-up card. When a card's power is triggered, exhaust the card by turning it 90 degrees to the right.
 An exhausted card cannot use its power until your next turn, but it can still take any other actions.
 You cannot trigger the power of a face-down card and face-down cards cannot be targeted by powers.
-To learn about the words Quick, Slow and Ongoing read the “Power Speed” section.
+To learn about the words Quick, Slow and Ongoing read the "Power Speed" section.
 
 ### How to Block Powers
 
 This mechanic requires a face-down Spy card on the playfield.
 
 - **Spy Skill**:
-  - During your opponent’s turn, if they trigger the Power of a card, you can flip face-up a face-down spy card to block it. The power has no effect, the action point used is lost and the card is exhausted.
+  - During your opponent's turn, if they trigger the Power of a card, you can flip face-up a face-down spy card to block it. The power has no effect, the action point used is lost and the card is exhausted.
   - A card exhausted by blocking is turned 90 degrees to the left. Blocking a power does not cost any Action Points.
 
 ![ExhaustBlock](<Imagens PDF/6 ExhaustBlock.png>)
@@ -171,22 +171,22 @@ The first word in the top of the Power box tells you when the power happens.
 
 ![Maníaco](<Imagens PDF/7 Maníaco.png>)
 
-When a card’s power tells you to summon a henchman, you should take the card described in the power’s text from your Extra Deck and play it face-up on any empty position except your opponent’s Zone 1.
-Henchmen cannot move, attack, or steal treasures. Henchmen that are killed, discarded, or returned to the player’s hand, return to the Extra Deck.
+When a card's power tells you to summon a henchman, you should take the card described in the power's text from your Extra Deck and play it face-up on any empty position except your opponent's Zone 1.
+Henchmen cannot move, attack, or steal treasures. Henchmen that are killed, discarded, or returned to the player's hand, return to the Extra Deck.
 
 - **Maniac Skill**: The Maniac is the only class that can summon Henchman cards. Once a Henchman is summoned, its power is active and does not cost any Action Points.
 
 ### Card Types
 
-A type is a power that is always active as long as the card is face-up on the playfield, it doesn’t need action points to be triggered.
+A type is a power that is always active as long as the card is face-up on the playfield, it doesn't need action points to be triggered.
 
 - **Evasive**: You can flip this card face-down in your End phase.
 - **Flying**: You can return this card to your hand in your Assault phase.
 - **Invulnerable**: Only "Slayer" type cards can attack or kill this card using powers.
 - **Obstacle**: Only "Strongman" type cards can attack or kill this card using powers.
 - **Regenerative**: If this card would be killed by a power, it flips face-down instead.
-- **Slayer**: This card can attack or kill “Invulnerable” type cards using powers.
-- **Strongman**: This card can attack or kill “Obstacle” type cards using powers.
+- **Slayer**: This card can attack or kill "Invulnerable" type cards using powers.
+- **Strongman**: This card can attack or kill "Obstacle" type cards using powers.
 
 ## About the Project
 
