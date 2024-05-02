@@ -214,7 +214,7 @@ When a card's power tells you to banish a card, that card cannot be played again
 
 A type is a special action a card can do as long as it is face-up on the Playfield. This action has no cost.
 
-- **Cursed**: This card's effect is active while it is in your hand.
+- **Curse**: This card's effect is active while it is in your hand.
 - **Evasive**: You can flip this card face-down in your turn.
 - **Flying**: You can return this card to your hand in your turn.
 - **Invulnerable**: Only "Slayer" type cards can attack or kill this card by using powers.
